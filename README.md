@@ -1,9 +1,14 @@
-## Sentiment Analysis using Caikit and Hugging Face
+<h1 align="center"> Sentiment Analysis using Caikit and Hugging Face </h1>
+<p align="center"> Berisi tentang project Sentiment Analysis using Caikit and Hugging Face</p>
 
-### Tech Stack
-### - Python
---- 
-### Documentation
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+</div>
+
+<h2 align="center"> Documentation </h2> 
+
 1. Install the requirements
 ```
 pip install -r requirements.txt
